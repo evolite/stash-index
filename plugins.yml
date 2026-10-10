@@ -1,0 +1,10 @@
+# Plugins whose entries are rebuilt from their latest GitHub release.
+# Anything in index.yml that isn't listed here (or has no GitHub release yet)
+# keeps its existing entry untouched.
+- {id: stashgifs, repo: stashgifs, asset: stashgifs.zip}
+- {id: stashAutoRater, repo: stashAutoRater, asset: stashAutoRater.zip}
+- {id: stashStarRater, repo: stashStarRater, asset: stashStarRater.zip}
+- {id: stashDBSync, repo: StashDBSync, asset: stashDBSync.zip}
+- {id: performerAttributeTagger, repo: StashAttributeTagger, asset: performerAttributeTagger.zip}
+- {id: StashTagCleaner, repo: StashTagCleaner, asset: StashTagCleaner.zip}
+- {id: scout-plugin, repo: scout-plugin, asset: scout-plugin.zip}
