@@ -1,0 +1,64 @@
+- id: stashgifs
+  name: StashGifs
+  metadata:
+    description: Social Media style browsing experience
+  version: 7.20.3
+  date: "2026-10-10 07:54:06"
+  path: https://github.com/evolite/stashgifs/releases/download/v7.20.3/stashgifs.zip
+  sha256: 3e8b741a49feb95d1c6c52d760b72eec7f16aca05c4760af75073a9f4e9a6a3e
+- id: stashAutoRater
+  name: Stash Auto Rater
+  metadata:
+    description: Sets performer, studio, group, and gallery ratings to the Bayesian average of their rated scenes and images
+  version: 1.0.6
+  date: "2026-10-09 21:04:02"
+  path: https://codeberg.org/surging9143/stashAutoRater/releases/download/v1.0.6/stashAutoRater.zip
+  sha256: c82b7a89dcb7532b937ca2555e509c960da209442e5e25b8c7416c3fdaaa1244
+- id: stashStarRater
+  name: Stash Star Rater
+  metadata:
+    description: For those who want to rate scenes 1-10 stars without fussing with decimal numbers
+  version: 0.1.13
+  date: "2026-10-10 07:24:27"
+  path: https://github.com/evolite/stashStarRater/releases/download/v0.1.13/stashStarRater.zip
+  sha256: a25fed7b6401aafdc7d1143155235b2fd0952baabd7f405951275a6268b41b85
+- id: stashDBSync
+  name: StashDB Sync
+  metadata:
+    description: Syncs performer and studio favorites between Stash and StashDB
+  version: 0.1.6
+  date: "2026-10-09 21:03:15"
+  path: https://codeberg.org/surging9143/StashDBSync/releases/download/v0.1.6/stashDBSync.zip
+  sha256: d664adecb02490fd82f1f9f8c127fe453b4ed90a5e9e40a94a27344e6e5208ce
+- id: sceneTagCleaner
+  name: Scene Tag Cleaner
+  metadata:
+    description: Removes unwanted tags (and their descendants) from all scenes.
+  version: 0.2.1
+  date: "2026-07-01 10:43:08"
+  path: https://codeberg.org/surging9143/StashSceneTagCleaner/releases/download/v0.2.1/sceneTagCleaner.zip
+  sha256: d77c76b058471e7759659748469bc20eafc98e6f49c86ed8f84ba8c6b7f15bdb
+- id: performerAttributeTagger
+  name: Performer Attribute Tagger
+  metadata:
+    description: Adds existing tags to performers based on ethnicity, eye color, and height. Never creates tags.
+  version: 0.2.3
+  date: "2026-10-09 21:03:32"
+  path: https://codeberg.org/surging9143/StashAttributeTagger/releases/download/v0.2.3/performerAttributeTagger.zip
+  sha256: 8634ed433504da2286390436deb53cdf319efcfa027a8623367e4af3a12e5e6d
+- id: StashTagCleaner
+  name: Stash Tag Cleaner
+  metadata:
+    description: Removes unwanted tags (and their descendants) from all scenes and images.
+  version: 0.3.1
+  date: "2026-10-09 21:04:36"
+  path: https://codeberg.org/surging9143/StashTagCleaner/releases/download/v0.3.1/StashTagCleaner.zip
+  sha256: 57053e869d81abc5a069346989fa7a8b62fb462c728154738574149b15cf497c
+- id: scout-plugin
+  name: Scout-Plugin
+  metadata:
+    description: Links from Stash performers and studios to Stash Scout
+  version: 0.1.0
+  date: "2026-10-07 19:50:28"
+  path: https://codeberg.org/surging9143/scout-plugin/releases/download/v0.1.0/scout-plugin.zip
+  sha256: 1fb29233590a9c3dd35b62512a9a62192196161de305c4501c3d6978a64da930
